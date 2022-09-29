@@ -10,7 +10,7 @@ TASK: ride
 
 using namespace std;
 
-int main() {
+int main(){
     ofstream cout ("ride.out");
     ifstream cin ("ride.in"); 
     string str[2];
